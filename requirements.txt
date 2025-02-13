@@ -1,0 +1,4 @@
+- name: Install Dependencies
+  run: |
+    cd path/to/your/project  # Navigate to the correct directory
+    pip install -r requirements.txt
